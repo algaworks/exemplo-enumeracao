@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+	<usuario_liberacao codigo_usuario="1" liberacao="PORTARIA" />
+	<usuario_liberacao codigo_usuario="1" liberacao="CENTRO_DE_CONVENCOES" />
+	
+	<usuario_liberacao codigo_usuario="2" liberacao="SALA_SAO_PAULO" />
+</dataset>
